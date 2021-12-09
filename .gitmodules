@@ -2,3 +2,9 @@
 	path = socialgraphs/public
 	url = https://github.com/mihainipomici/socialgraphs.github.io.git
 	branch = main
+[submodule "trial"]
+	path = trial
+	url = https://github.com/mihainipomici/graphs.github.io.git
+[submodule "graphs/deployment"]
+	path = graphs/deployment
+	url = https://github.com/mihainipomici/graphs.github.io.git
