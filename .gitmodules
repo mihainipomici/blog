@@ -5,6 +5,3 @@
 [submodule "trial"]
 	path = trial
 	url = https://github.com/mihainipomici/graphs.github.io.git
-[submodule "graphs/deployment"]
-	path = graphs/deployment
-	url = https://github.com/mihainipomici/graphs.github.io.git
