@@ -5,3 +5,7 @@
 [submodule "trial"]
 	path = trial
 	url = https://github.com/mihainipomici/graphs.github.io.git
+[submodule "graphs/public"]
+	path = graphs/public
+	url = https://github.com/mihainipomici/graphs.github.io.git
+	branch = main
