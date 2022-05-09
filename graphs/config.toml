@@ -4,7 +4,7 @@ title = "South Park Awesome Networks!"
 theme = "hyde"
 [Menus]
   main = [
-      {Name = "Data Source: South Park Archives", URL = "https://southpark.fandom.com/wiki/South_Park_Archives"},
+      {Name = "Data Source: South Park Archiveswwqwq", URL = "https://southpark.fandom.com/wiki/South_Park_Archives"},
       {Name = "Data Analysis: check out this Notebook!", URL = "https://github.com/TeoAndB/SouthPark_NetworkAnalysis"}
   ]
 [params]
